@@ -1,0 +1,16 @@
+h1{
+    background-color: #3e7723;
+    width: 500px;
+}
+
+p{
+    background-color: blue;
+    width: 690px;
+    display: flex; 
+    justify-self: center;
+    font-size:40px;
+}
+
+.container{
+    width: 500px;
+}
